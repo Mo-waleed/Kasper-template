@@ -1,3 +1,3 @@
 # Kasper-template
 
-USing HTML & CSS Only
+Using HTML & CSS Only
